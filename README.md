@@ -17,11 +17,11 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 
 
 ### Standard library: 
-1. sys 
+1. sys
 2. os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
 3. file i/o in scipy, pandas, [h5py](http://www.h5py.org/) 
 4. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
-5. itertools [p2](https://docs.python.org/2/library/itertools.html) | [p3](https://docs.python.org/3/library/itertools.html) 
+5. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
 
 
 ### Python numerics stack: 
