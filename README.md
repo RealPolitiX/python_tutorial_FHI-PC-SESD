@@ -1,63 +1,61 @@
 # Python tutorial @ FHI-PC-SESD
 Materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department
 
-## System configuration: 
-1. python installation (installed before class)
+### System configuration: 
+1. python installation (installed [`Anaconda`](https://www.continuum.io/) distribution before class)
 2. package installation 
 3. python data types and operations 
-4. functional vs. object-oriented programming 
-5. Git 
+4. python functional vs. object-oriented programming 
+5. [`git`](https://git-scm.com/)
 
 
-## Development environment (IDE): 
-1. Jupyter notebook 
-2. Spyder 
-3. PyCharm 
-4. Atom 
+### Development environment (IDE): 
+1. [`Jupyter`](http://jupyter.org/) 
+2. [`Spyder`](https://github.com/spyder-ide/spyder) 
+3. [`PyCharm`](https://www.jetbrains.com/pycharm/) 
+4. [`Atom`](https://atom.io/) 
 
 
-## Standard library: 
+### Standard library: 
 1. sys 
-2. os/glob/glob2 
-3. file i/o in scipy, pandas, h5py 
-4. time 
-5. itertools 
+2. os/glob/[`glob2`](https://pypi.python.org/pypi/glob2) 
+3. file i/o in scipy, pandas, [`h5py`](http://www.h5py.org/) 
+4. time [`py2`](https://docs.python.org/2/library/time.html) | [`py3`](https://docs.python.org/3/library/time.html) 
+5. itertools [`p2`](https://docs.python.org/2/library/itertools.html) | [`p3`](https://docs.python.org/3/library/itertools.html) 
 
 
-## Python numerics stack: 
-1. numpy 
-2. scipy + odeintw 
-3. pandas 
-4. sympy 
-5. numdiff 
-6. mpmath 
+### Python numerics stack: 
+1. [`numpy`](http://www.numpy.org/) 
+2. [`scipy`](https://www.scipy.org/) 
+3. [`pandas`](http://pandas.pydata.org/) 
+4. [`sympy`](http://www.sympy.org)
+5. [`mpmath`](http://mpmath.org/) 
 
 
-## Python visualization & interactivity: 
-1. matplotlib (2D) 
-2. seaborn (2D stats) 
-3. mayavi (3D) 
-4. ipywidgets/bokeh/plotly (interactivity) 
-5. glue 
+### Python visualization & interactivity: 
+1. [`matplotlib`](https://matplotlib.org/) (2D) 
+2. [`seaborn`](https://seaborn.pydata.org/) (2D stats) 
+3. [`mayavi`](http://code.enthought.com/projects/mayavi/#Mayavi) (3D) 
+4. [`ipywidgets`](https://github.com/jupyter-widgets/ipywidgets)/[`bokeh`](http://bokeh.pydata.org/)/[`plotly`](https://plot.ly/) (interactivity) 
+5. [`glue`](http://glueviz.org) 
 
 
-## Advanced python: 
-1. Qt (incl. DaX interface) 
-2. multiprocessing 
-3. cython 
-4. line_profiler 
+### Advanced python: 
+1. [`PyQt`](https://riverbankcomputing.com/software/pyqt/intro) (incl. DaX interface) 
+2. multiprocessing [`py2`](https://pymotw.com/2/multiprocessing/basics.html) | [`py3`](https://pymotw.com/3/multiprocessing/basics.html) 
+3. [`cython`](http://cython.org/) 
+4. [`line_profiler`](https://github.com/rkern/line_profiler)
 5. python 2.7 vs python 3.5 
 6. interfacing w/ other languages (Matlab/Julia/C(++)/Fortran) 
 
 
-## Custom python packages for experimental analysis: 
-1. xarray (nD array) 
-2. lmfit/mystic/cvxpy (fitting) 
-3. deap (evolutionary algorithm) 
-4. scikit-image (image analysis) 
-5. scikit-learn (machine learning) 
-6. pyFAI 
-7. larch 
-8. diffpy 
-9. (mantid) 
-10. mpes
+### Custom python packages for experimental analysis: 
+1. [`xarray`](http://xarray.pydata.org) (nD array) 
+2. [`lmfit`](https://lmfit.github.io/lmfit-py/)/[`mystic`](http://trac.mystic.cacr.caltech.edu)/[`cvxpy`](http://www.cvxpy.org) (nonlinear regression, convex optimization) 
+3. [`deap`](https://github.com/DEAP/deap) (evolutionary algorithm) 
+4. [`scikit-image`](http://scikit-image.org/) (image analysis) 
+5. [`scikit-learn`](http://scikit-learn.org) (machine learning) 
+6. [`pyFAI`](https://github.com/silx-kit/pyFAI) (fast radial integrator)
+7. [`larch`](http://cars9.uchicago.edu/xraylarch/) (XAFS)
+8. [`diffpy`](http://www.diffpy.org/) (diffraction) 
+9. [`mpes`](https://github.com/RealPolitiX/mpes)
