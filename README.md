@@ -2,18 +2,18 @@
 Materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department
 
 ### System configuration: 
-1. python installation (installed [`Anaconda`](https://www.continuum.io/) distribution before class)
+1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
 2. package installation 
 3. python data types and operations 
 4. python functional vs. object-oriented programming 
-5. [`git`](https://git-scm.com/)
+5. [git](https://git-scm.com/)
 
 
 ### Development environment (IDE): 
-1. [`Jupyter`](http://jupyter.org/) 
-2. [`Spyder`](https://github.com/spyder-ide/spyder) 
-3. [`PyCharm`](https://www.jetbrains.com/pycharm/) 
-4. [`Atom`](https://atom.io/) 
+1. [Jupyter](http://jupyter.org/) 
+2. [Spyder](https://github.com/spyder-ide/spyder) 
+3. [PyCharm](https://www.jetbrains.com/pycharm/) 
+4. [Atom](https://atom.io/) 
 
 
 ### Standard library: 
