@@ -3,25 +3,24 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 
 ### System configuration: 
 1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
-2. package installation 
-3. python data types and operations 
-4. functional vs. object-oriented programming in python 
-5. [git](https://git-scm.com/)
+2. package installation
+3. [git](https://git-scm.com/)
 
 
-### Development environment (IDE): 
-1. [Jupyter](http://jupyter.org/) 
+### Development environment and platforms: 
+1. [Jupyter](http://jupyter.org/)
 2. [Spyder](https://github.com/spyder-ide/spyder) 
 3. [PyCharm](https://www.jetbrains.com/pycharm/) 
-4. [Atom](https://atom.io/) 
+4. [Atom](https://atom.io/)
 
 
-### Standard library: 
-1. sys
-2. os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
-3. file i/o in scipy, pandas, [h5py](http://www.h5py.org/) 
-4. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
-5. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
+### Python basics (incl. the standard library)
+1. python data types and operations 
+2. functional vs. object-oriented programming in python
+3. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
+4. file i/o in scipy, pandas, [h5py](http://www.h5py.org/) 
+5. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
+6. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
 
 
 ### Python numerics stack: 
