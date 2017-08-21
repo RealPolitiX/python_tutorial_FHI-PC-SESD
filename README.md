@@ -7,7 +7,7 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 3. [git](https://git-scm.com/)
 
 
-### 1. Python basics (incl. the standard library)
+### 1. Python basics (incl. the standard library): [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_01_Basics.ipynb)
 1. python data types and operations 
 2. functional vs. object-oriented programming in python
 3. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
