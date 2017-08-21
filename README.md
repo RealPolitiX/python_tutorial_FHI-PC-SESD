@@ -1,20 +1,13 @@
 # Python tutorial @ FHI-PC-SESD
 Materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department
 
-### System configuration: 
+### 0. System configuration: 
 1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
 2. package installation
 3. [git](https://git-scm.com/)
 
 
-### Development environment and platforms: 
-1. [Jupyter](http://jupyter.org/)
-2. [Spyder](https://github.com/spyder-ide/spyder) 
-3. [PyCharm](https://www.jetbrains.com/pycharm/) 
-4. [Atom](https://atom.io/)
-
-
-### Python basics (incl. the standard library)
+### 1. Python basics (incl. the standard library)
 1. python data types and operations 
 2. functional vs. object-oriented programming in python
 3. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
@@ -23,7 +16,14 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 6. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
 
 
-### Python numerics stack: 
+### 2. Development environment and platforms: 
+1. [Jupyter](http://jupyter.org/)
+2. [Spyder](https://github.com/spyder-ide/spyder) 
+3. [PyCharm](https://www.jetbrains.com/pycharm/) 
+4. [Atom](https://atom.io/)
+
+
+### 3. Python numerics stack: 
 1. [numpy](http://www.numpy.org/) (matrix calculation)
 2. [scipy](https://www.scipy.org/) (numerical methods, signal processing)
 3. [pandas](http://pandas.pydata.org/) (time series, panel data) 
@@ -31,7 +31,7 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 5. [mpmath](http://mpmath.org/) (arbitrary-precision calculation)
 
 
-### Python visualization & interactivity: 
+### 4. Python visualization & interactivity: 
 1. [matplotlib](https://matplotlib.org/) (2D) 
 2. [seaborn](https://seaborn.pydata.org/) (2D stats) 
 3. [mayavi](http://code.enthought.com/projects/mayavi/#Mayavi) (3D) 
@@ -39,7 +39,7 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 5. [glue](http://glueviz.org) 
 
 
-### Advanced python: 
+### 5. Advanced python: 
 1. [PyQt](https://riverbankcomputing.com/software/pyqt/intro) (GUI incl. DaX interface) 
 2. multiprocessing [py2](https://pymotw.com/2/multiprocessing/basics.html) | [py3](https://pymotw.com/3/multiprocessing/basics.html) (parallel computation)
 3. [cython](http://cython.org/) (compiled python)
@@ -48,7 +48,7 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 6. interfacing w/ other languages (Matlab/Julia/C(++)/Fortran) 
 
 
-### Custom python packages for experimental analysis: 
+### 6. Custom python packages for experimental analysis: 
 1. [xarray](http://xarray.pydata.org) (nD array) 
 2. [lmfit](https://lmfit.github.io/lmfit-py/)/[mystic](http://trac.mystic.cacr.caltech.edu)/[cvxpy](http://www.cvxpy.org) (nonlinear regression, convex optimization) 
 3. [deap](https://github.com/DEAP/deap) (evolutionary algorithm) 
