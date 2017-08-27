@@ -1,7 +1,7 @@
 # Python tutorial @ FHI-PC-SESD
-Materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department  
-**Lecturers**: Patrick Xian, Faruk Krecinic
-
+Course materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department  
+**Lecturers**: Patrick Xian, Faruk Krecinic  
+**Duration**: 4 sessions, each 1.5-2 hrs
 
 ### 0. System configuration: 
 1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
@@ -10,12 +10,12 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 
 
 ### 1. Python basics (incl. the standard library) [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_01_Basics.ipynb)
-1. python data types and operations 
-2. functional vs. object-oriented programming in python
-3. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2) 
-4. file i/o in scipy, pandas, [h5py](http://www.h5py.org/) 
-5. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
-6. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
+1. python data types and operations
+2. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2)  
+3. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
+4. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
+5. file i/o in scipy, pandas, [h5py](http://www.h5py.org/)
+6. functional vs. object-oriented programming in python
 
 
 ### 2. Development environment and platforms [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_02_Jupyter.ipynb)
@@ -43,11 +43,11 @@ Materials for the internal python tutorial at Fritz Haber Institute's Physical C
 
 ### 5. Advanced python [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_05_AdvancedTopics.ipynb)
 1. [PyQt](https://riverbankcomputing.com/software/pyqt/intro) (GUI incl. DaX interface) 
-2. multiprocessing [py2](https://pymotw.com/2/multiprocessing/basics.html) | [py3](https://pymotw.com/3/multiprocessing/basics.html) (parallel computation)
-3. [cython](http://cython.org/) (compiled python)
-4. [line_profiler](https://github.com/rkern/line_profiler) (code profiling)
-5. python 2.7 vs python 3.5 
-6. interfacing w/ other languages (Matlab/Julia/C(++)/Fortran) 
+2. code profiling in Jupyter and using [line_profiler](https://github.com/rkern/line_profiler)
+3. multiprocessing [py2](https://pymotw.com/2/multiprocessing/basics.html) | [py3](https://pymotw.com/3/multiprocessing/basics.html) (parallel computation)
+4. [cython](http://cython.org/) (compiled python)
+5. python 2.7 vs python 3.5 ([short summary](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html))
+6. interfacing w/ other languages (Matlab/Julia/C(++)/Fortran)
 
 
 ### 6. Custom python packages for experimental analysis [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_06_NichePackages.ipynb)
