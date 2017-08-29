@@ -1,7 +1,7 @@
 # Python tutorial @ FHI-PC-SESD
 Course materials for the internal python tutorial at Fritz Haber Institute's Physical Chemistry department  
 **Lecturers**: Patrick Xian, Faruk Krecinic  
-**Duration**: 4 sessions, each 1.5-2 hrs
+**Duration**: 4 lectures, each 1.5-2 hrs
 
 ### 0. System configuration: 
 1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
@@ -14,8 +14,8 @@ Course materials for the internal python tutorial at Fritz Haber Institute's Phy
 2. sys/os/glob/[glob2](https://pypi.python.org/pypi/glob2)  
 3. time [py2](https://docs.python.org/2/library/time.html) | [py3](https://docs.python.org/3/library/time.html) 
 4. itertools [py2](https://docs.python.org/2/library/itertools.html) | [py3](https://docs.python.org/3/library/itertools.html) 
-5. file i/o in scipy, pandas, [h5py](http://www.h5py.org/)
-6. functional vs. object-oriented programming in python
+5. functional vs. object-oriented programming in python
+6. file i/o in scipy, pandas, [h5py](http://www.h5py.org/)
 
 
 ### 2. Development environment and platforms [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_02_Jupyter.ipynb)
