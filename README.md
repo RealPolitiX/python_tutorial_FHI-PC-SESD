@@ -3,6 +3,10 @@ Course materials for the internal python tutorial at Fritz Haber Institute's Phy
 **Lecturers**: Patrick Xian, Faruk Krecinic  
 **Duration**: 4 lectures, each 1.5-2 hrs
 
+
+[Rosetta stone](http://mathesaurus.sourceforge.net/matlab-numpy.html) for Matlab users picking up Python
+
+
 ### 0. System configuration: 
 1. python installation (installed [Anaconda](https://www.continuum.io/) distribution before class)
 2. package installation
@@ -38,7 +42,6 @@ Course materials for the internal python tutorial at Fritz Haber Institute's Phy
 2. [seaborn](https://seaborn.pydata.org/) (2D stats) 
 3. [mayavi](http://code.enthought.com/projects/mayavi/#Mayavi) (3D) 
 4. [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)/[bokeh](http://bokeh.pydata.org/)/[plotly](https://plot.ly/) (interactivity) 
-5. [glue](http://glueviz.org) 
 
 
 ### 5. Advanced python [:arrow_forward:](https://github.com/RealPolitiX/python_tutorial_FHI-PC-SESD/blob/master/materials/PyTutorial_05_AdvancedTopics.ipynb)
